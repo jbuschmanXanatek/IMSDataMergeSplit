@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMSDataMergeSplit", "IMSDataMergeSplit\IMSDataMergeSplit.csproj", "{87945322-1158-47B9-AD31-65D81B100FD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87945322-1158-47B9-AD31-65D81B100FD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87945322-1158-47B9-AD31-65D81B100FD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87945322-1158-47B9-AD31-65D81B100FD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87945322-1158-47B9-AD31-65D81B100FD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D434BBE1-4729-420B-ACDF-0754FD9F59AD}
+	EndGlobalSection
+EndGlobal
